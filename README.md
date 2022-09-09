@@ -3,7 +3,7 @@ class Nick:
   def __init__(self):
     self.Name = "Nick"
     self.Age = 13
-    self.Discord = "punchmade#0333"
+    self.Discord = "flow#0333"
     self.Role = "Student"
 
   def welcomeUser(self):
